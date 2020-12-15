@@ -1,5 +1,5 @@
 /**
- *  Panel heater
+ *  Panel Heater
  *
  *  Copyright 2020 Arnold de Bolster
  *
@@ -13,8 +13,8 @@
  *  for the specific language governing permissions and limitations under the License.
  */
 metadata {
-	definition (name: "Panel heater", namespace: "Panel heater", author: "Arnold de Bolster", cstHandler: true) {
-		capability "Stateless Temperature Button"
+	definition (name: "Panel Heater", namespace: "Panel heater", author: "Arnold de Bolster", cstHandler: true) {
+		capability "Switch Level"
 	}
 
 
@@ -30,12 +30,12 @@ metadata {
 // parse events into attributes
 def parse(String description) {
 	log.debug "Parsing '${description}'"
-	// TODO: handle 'availableTemperatureButtons' attribute
+	// TODO: handle 'level' attribute
 
 }
 
 // handle commands
-def setButton() {
-	log.debug "Executing 'setButton'"
-	// TODO: handle 'setButton' command
+def setLevel() {
+	log.debug "Executing 'setLevel'"
+	// TODO: handle 'setLevel' command
 }
