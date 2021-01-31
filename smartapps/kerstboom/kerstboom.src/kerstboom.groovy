@@ -1,7 +1,7 @@
 /**
- *  P45 CLEAR Links
+ *  Kerstboom
  *
- *  Copyright 2020 Arnold de Bolster
+ *  Copyright 2019 Arnold de Bolster
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -14,15 +14,15 @@
  *
  */
 definition(
-    name: "P45 CLEAR Links",
-    namespace: "P45 CLEAR Links",
+    name: "Kerstboom",
+    namespace: "Kerstboom",
     author: "Arnold de Bolster",
-    description: "P45 CLEAR Links",
+    description: "Kerstboom",
     category: "My Apps",
-    iconUrl: "http://cdn.device-icons.smartthings.com/Lighting/light11-icn@2x.png",
-    iconX2Url: "http://cdn.device-icons.smartthings.com/Lighting/light11-icn@2x.png",
-    iconX3Url: "http://cdn.device-icons.smartthings.com/Lighting/light11-icn@2x.png"
-//    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
+    iconUrl: "http://cdn.device-icons.smartthings.com/Seasonal%20Winter/seasonal-winter-003-icn.png",
+    iconX2Url: "http://cdn.device-icons.smartthings.com/Seasonal%20Winter/seasonal-winter-003-icn@2x.png",
+    iconX3Url: "http://cdn.device-icons.smartthings.com/Seasonal%20Winter/seasonal-winter-003-icn@2x.png"
+//     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
 //    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
 //    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png"
     )

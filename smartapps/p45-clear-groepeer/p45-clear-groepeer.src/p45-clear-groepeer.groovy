@@ -1,5 +1,5 @@
 /**
- *  P45 CLEAR Links
+ *  P45 CLEAR Groepeer
  *
  *  Copyright 2020 Arnold de Bolster
  *
@@ -14,18 +14,14 @@
  *
  */
 definition(
-    name: "P45 CLEAR Links",
-    namespace: "P45 CLEAR Links",
+    name: "P45 CLEAR Groepeer",
+    namespace: "P45 CLEAR Groepeer",
     author: "Arnold de Bolster",
-    description: "P45 CLEAR Links",
+    description: "P45 CLEAR Groepeer",
     category: "My Apps",
-    iconUrl: "http://cdn.device-icons.smartthings.com/Lighting/light11-icn@2x.png",
-    iconX2Url: "http://cdn.device-icons.smartthings.com/Lighting/light11-icn@2x.png",
-    iconX3Url: "http://cdn.device-icons.smartthings.com/Lighting/light11-icn@2x.png"
-//    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
-//    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
-//    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png"
-    )
+    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
+    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
+    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png")
 
 
 preferences {

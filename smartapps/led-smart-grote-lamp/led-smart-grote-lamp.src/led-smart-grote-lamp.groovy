@@ -19,9 +19,13 @@ definition(
     author: "Arnold de Bolster",
     description: "LED SMART Grote lamp",
     category: "My Apps",
-    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
-    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
-    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png")
+    iconUrl: "http://cdn.device-icons.smartthings.com/Lighting/light11-icn@2x.png",
+    iconX2Url: "http://cdn.device-icons.smartthings.com/Lighting/light11-icn@2x.png",
+    iconX3Url: "http://cdn.device-icons.smartthings.com/Lighting/light11-icn@2x.png"
+//    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
+//    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png",
+//    iconX3Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png"
+    )
 
 
 preferences {
